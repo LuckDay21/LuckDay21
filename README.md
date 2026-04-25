@@ -37,15 +37,15 @@ I am a passionate Frontend Developer with a strong focus on building modern, res
 ### 📊 GitHub Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuckDay21&show_icons=true&theme=tokyonight&count_private=true" alt="Quraish's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckDay21&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuckDay21&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuckDay21&theme=tokyonight" alt="Profile Summary Card" />
 </p>
 
 ---
